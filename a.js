@@ -7,3 +7,4 @@ console.log([accountId,accountEmail,accountPassword,accountCity]);
 accountEmail="guewfe"
 accountPassword=565
 console.log(accountEmail,accountPassword);
+hello
